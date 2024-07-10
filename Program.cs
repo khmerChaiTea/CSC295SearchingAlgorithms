@@ -15,7 +15,6 @@
             int[] arr3 = { 7, 6, 9, 3, 5, 8, 0, 10, 1, 4};
             int arr3Result = LinearMinSearch(arr3);
             Console.WriteLine(arr3Result);
-
         }
 
         public static int LinearSearch(int[] arrToSearch, int target)
