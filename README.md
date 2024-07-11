@@ -1,6 +1,8 @@
 CSC295 Linear Search and Binary Search (Big O)
 
 Code to test the methods:
+
+
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SearchingAlgorithms;
 using System;
